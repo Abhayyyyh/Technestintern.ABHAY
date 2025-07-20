@@ -1,4 +1,4 @@
-# Techne# ✅ Completed Internship Tasks - Technest Intern
+# Technestintern ✅ Completed Internship Tasks - Technest Intern
 
 This repository contains all the tasks successfully completed during my internship with **TechnestIntern**. Each file has been uploaded and organized for easy access and review.
 
