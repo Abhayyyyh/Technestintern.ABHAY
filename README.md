@@ -5,8 +5,8 @@ This repository contains all the tasks successfully completed during my internsh
 ## 📁 Contents
 - [Task 1] - RETAIL SALES ANALYSIS
 - [Task 2] - CUSTOMER SEGMENTATION USING CLUSTERING
-- [Task 3] -
-- [Task 4] -
+- [Task 3] - SQL_QUERY
+- [Task 4] - IPL DATA ANALYSIS
 - Final Submission
 
 ## 🎯 Status
